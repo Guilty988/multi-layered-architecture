@@ -1,0 +1,15 @@
+/Users/dogukanzorer/Projects/GuiltyProject/Entities/bin/Debug/net6.0/Entities.deps.json
+/Users/dogukanzorer/Projects/GuiltyProject/Entities/bin/Debug/net6.0/Entities.dll
+/Users/dogukanzorer/Projects/GuiltyProject/Entities/bin/Debug/net6.0/Entities.pdb
+/Users/dogukanzorer/Projects/GuiltyProject/Entities/bin/Debug/net6.0/Core.dll
+/Users/dogukanzorer/Projects/GuiltyProject/Entities/bin/Debug/net6.0/Core.pdb
+/Users/dogukanzorer/Projects/GuiltyProject/Entities/obj/Debug/net6.0/Entities.csproj.AssemblyReference.cache
+/Users/dogukanzorer/Projects/GuiltyProject/Entities/obj/Debug/net6.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dogukanzorer/Projects/GuiltyProject/Entities/obj/Debug/net6.0/Entities.AssemblyInfoInputs.cache
+/Users/dogukanzorer/Projects/GuiltyProject/Entities/obj/Debug/net6.0/Entities.AssemblyInfo.cs
+/Users/dogukanzorer/Projects/GuiltyProject/Entities/obj/Debug/net6.0/Entities.csproj.CoreCompileInputs.cache
+/Users/dogukanzorer/Projects/GuiltyProject/Entities/obj/Debug/net6.0/Entities.csproj.CopyComplete
+/Users/dogukanzorer/Projects/GuiltyProject/Entities/obj/Debug/net6.0/Entities.dll
+/Users/dogukanzorer/Projects/GuiltyProject/Entities/obj/Debug/net6.0/refint/Entities.dll
+/Users/dogukanzorer/Projects/GuiltyProject/Entities/obj/Debug/net6.0/Entities.pdb
+/Users/dogukanzorer/Projects/GuiltyProject/Entities/obj/Debug/net6.0/ref/Entities.dll

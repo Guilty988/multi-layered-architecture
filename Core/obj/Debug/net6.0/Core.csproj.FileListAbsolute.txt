@@ -1,0 +1,12 @@
+/Users/dogukanzorer/Projects/GuiltyProject/Core/bin/Debug/net6.0/Core.deps.json
+/Users/dogukanzorer/Projects/GuiltyProject/Core/bin/Debug/net6.0/Core.dll
+/Users/dogukanzorer/Projects/GuiltyProject/Core/bin/Debug/net6.0/Core.pdb
+/Users/dogukanzorer/Projects/GuiltyProject/Core/obj/Debug/net6.0/Core.csproj.AssemblyReference.cache
+/Users/dogukanzorer/Projects/GuiltyProject/Core/obj/Debug/net6.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dogukanzorer/Projects/GuiltyProject/Core/obj/Debug/net6.0/Core.AssemblyInfoInputs.cache
+/Users/dogukanzorer/Projects/GuiltyProject/Core/obj/Debug/net6.0/Core.AssemblyInfo.cs
+/Users/dogukanzorer/Projects/GuiltyProject/Core/obj/Debug/net6.0/Core.csproj.CoreCompileInputs.cache
+/Users/dogukanzorer/Projects/GuiltyProject/Core/obj/Debug/net6.0/Core.dll
+/Users/dogukanzorer/Projects/GuiltyProject/Core/obj/Debug/net6.0/refint/Core.dll
+/Users/dogukanzorer/Projects/GuiltyProject/Core/obj/Debug/net6.0/Core.pdb
+/Users/dogukanzorer/Projects/GuiltyProject/Core/obj/Debug/net6.0/ref/Core.dll
